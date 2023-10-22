@@ -9,6 +9,8 @@ gcc 添加注释
 <leader>d   debug
 
 K hover或者进入hover展示面板
+Shift + > 向右缩进
+Shift + < 向左缩进
 
 
 cmp出现提示时
